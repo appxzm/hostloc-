@@ -5,7 +5,9 @@
 
 
 [table=100%,Black]
+
 [tr][td][align=center][color=White][size=5][b]已　无　个　性 、何　来　签　名 ！[/b][/size][/color][/align][/td][/tr]
+
 [/table]
 
 
